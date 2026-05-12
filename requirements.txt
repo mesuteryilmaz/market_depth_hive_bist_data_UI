@@ -1,0 +1,4 @@
+PyQt5>=5.15.10
+pandas>=2.2.3
+pyarrow>=16.1.0
+numpy>=1.26.4
