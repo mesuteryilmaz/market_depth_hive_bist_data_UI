@@ -8,6 +8,10 @@ A professional **25-Level Depth of Market (DOM) ladder** replay tool for BIST (B
 
 ---
 
+![BIST DOM Replay screenshot](screenshot.png)
+
+---
+
 ## Features
 
 - **25-level bid/ask ladder** — custom-painted with color-coded quantity bars
